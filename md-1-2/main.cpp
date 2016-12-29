@@ -10,7 +10,7 @@
 
 #define MAXN 9
 int ans, index, A[MAXN+1];
-
+//
 void solve(void)
 {
     for(int i=1; i<10; i++)
